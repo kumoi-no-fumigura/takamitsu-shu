@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 44,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-takamitsu-0001",
@@ -660,7 +663,7 @@
   "blocks": 44,
   "chars": 1035,
   "poems": 44,
-  "yaku": 0,
+  "yaku": 44,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T21:24:37+09:00"
